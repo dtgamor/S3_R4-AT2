@@ -4,5 +4,5 @@ const PORT = 8081;
 
 
 app.listen(PORT, ()=>{
-    console.log(`Server listening http://localhost:${PORT}`);
+    console.log(`Servidor Produtos rodando em: http://localhost:${PORT}`);
 });
